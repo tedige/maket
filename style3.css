@@ -1,0 +1,45 @@
+/* @media screen and (max-width: 800px) { 
+    body {
+        width: 950px;
+        background-size: 1300px 920px; 
+    }
+    .intro_subtitle {
+        text-align: center
+    }
+.Ppp {
+    width: 1200px;
+}
+
+.block_info1 {
+    margin-left: 80px;
+}
+
+.lini {
+    text-align: center;
+    
+}
+.main_b {
+    
+}
+    .main_info {
+        width: 1200px;
+    }
+.block_info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 200px;
+}
+
+.block_info img {
+    width: 200px;
+    height: 200px;
+}
+
+.main_b3 {
+    width: 1200px;
+}  
+
+.info_person {
+    width: 500px;
+}
